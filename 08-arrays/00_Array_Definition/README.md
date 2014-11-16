@@ -1,4 +1,4 @@
-- Create a function named **newArray**. This function should:
+ - Create a function named **newArray**. This function should:
     - take four arguments
     - return an array with those arguments
 
